@@ -49,8 +49,7 @@ Expense Tracker/
 
 ## 🌐 Live Demo
 
-🔗 [View Project Live](https://amrqamhieh.github.io/expense-tracker/)  
-(Replace with your actual GitHub Pages URL if different)
+🔗 [View Project Live](https://amrqamhieh.github.io/Expense-tracker/)  
 
 ---
 
