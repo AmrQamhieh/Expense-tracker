@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(135deg, #7ed5c5, #24917d);
+  background: linear-gradient(135deg, #eeffdf, #eee3e3);
   min-height: 100vh;
   font-family: "Poppins", sans-serif;
   display: flex;
@@ -45,7 +45,7 @@ h2 {
   text-align: center;
   margin-bottom: 35px;
   padding: 24px;
-  background: linear-gradient(135deg, #c6dc97, #a1e0de);
+  background: linear-gradient(135deg, #98bd44, #2b823b);
   border-radius: 1rem;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
 }
